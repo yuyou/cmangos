@@ -1,0 +1,2 @@
+# cmangos
+CMangos game server
